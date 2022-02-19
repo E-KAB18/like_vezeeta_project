@@ -1,0 +1,44 @@
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    border:black 1px solid;
+
+    
+}
+.card-title{
+
+font-size: 25px;
+font-weight: bold;
+
+
+}
+.doc{
+
+font-size: 15px;
+font-weight: normal;
+
+
+}
+.card{
+    min-width: 800px
+}
+/* div{
+    border: 1px gainsboro double ;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 20vw;
+    background-color: gainsboro;
+
+}
+span{
+    position: absolute;
+
+    
+}
+h6{
+    text-align: center;
+} */
